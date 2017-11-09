@@ -8,7 +8,7 @@ public class Pedir {
     Scanner sc=new Scanner(System.in);
     public void pedirNome(){
     
-        System.out.println("¿Cual es tu nombre?");
+        System.out.println("¿Cal é o teu nome?");
         nome=sc.next();
     
 }
