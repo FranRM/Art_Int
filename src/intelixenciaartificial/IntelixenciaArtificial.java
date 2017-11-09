@@ -16,7 +16,9 @@ public class IntelixenciaArtificial {
      */
     public static void main(String[] args) {
         //test
+        Pedir p=new Pedir();
         Dar d=new Dar();
+        p.pedirNome();
         System.out.println(d.toString());
     }
     
