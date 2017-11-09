@@ -13,8 +13,8 @@ public class Dar {
    public Dar(){
         
     }
-    @Override
-    public String toString(){
-    return "Bos dias, cachocarne";
+    
+    public String toString(Pedir p){
+    return "Bos dias, "+p.nome;
     } 
 }
