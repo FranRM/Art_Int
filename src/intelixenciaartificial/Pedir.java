@@ -1,12 +1,13 @@
 
-package IA;
+package intelixenciaartificial;
 
 import java.util.Scanner;
 
 public class Pedir {
-    Scanner sc=new Scanner(System.in);
-    public void pedirNome(){
     String nome;
+    Scanner sc=new Scanner(System.in);
+    
+    public void pedirNome(){
         System.out.println("¿Cual es tu nombre?");
         nome=sc.next();
     
