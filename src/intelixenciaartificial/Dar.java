@@ -13,8 +13,9 @@ public class Dar {
    public Dar(){
         
     }
-    @Override
-    public String toString(){
-    return "Bos dias, cachocarne";
+    
+    public String toString(Pedir p){
+    return "Bos dias, cachocarne. Pode que o teu nome sexa "+
+            p.nome+", pero para min todos sodes igual de insignificantes";
     } 
 }
