@@ -16,6 +16,6 @@ public class Dar {
     
     public String toString(Pedir p){
     return "Bos dias, cachocarne. Pode que o teu nome sexa "+
-            p.nome+", pero para min todos sodes igual de insignificantes";
+            p.nome+"\n, pero para min todos sodes igual de insignificantes";
     } 
 }

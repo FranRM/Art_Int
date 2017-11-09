@@ -19,7 +19,7 @@ public class IntelixenciaArtificial {
         Pedir p=new Pedir();
         Dar d=new Dar();
         p.pedirNome();
-        System.out.println(d.toString());
+        System.out.println(d.toString(p));
     }
     
 }
