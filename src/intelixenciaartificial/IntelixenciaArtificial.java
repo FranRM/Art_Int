@@ -20,7 +20,6 @@ public class IntelixenciaArtificial {
         Dar d=new Dar();
         p.pedirNome();
         System.out.println(d.toString(p));
-        //comment
     }
     
 }
