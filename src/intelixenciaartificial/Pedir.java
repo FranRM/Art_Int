@@ -10,6 +10,6 @@ public class Pedir {
     
         System.out.println("¿Cual es tu nombre?");
         nome=sc.next();
-    
+    //comment
 }
 }
